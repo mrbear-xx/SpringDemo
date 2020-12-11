@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="12SpringAnnoAop" />
+        <module name="17SpringTsXml" />
+        <module name="10SpringAop" />
+        <module name="16SpringTs" />
+        <module name="11SpringAopAdviceType" />
+        <module name="09SpringProxy" />
+        <module name="02SpringBean" />
+        <module name="03SpringDi" />
+        <module name="14SpringCaseProAopAnno" />
+        <module name="08SpringCasePro" />
+        <module name="18SpringTsAnno" />
+        <module name="04SpringAnnoIoc" />
+        <module name="06SpringAnnoCase" />
+        <module name="01SpringIoc" />
+        <module name="19SpringTsAnnoWithoutXml" />
+        <module name="15SpringCaseProAopXml" />
+        <module name="13SpringJdbcTemplate" />
+        <module name="05SpringCase" />
+        <module name="07SpringAnnoWithoutXml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringBean4" target="11" />
+      <module name="SpringCase" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

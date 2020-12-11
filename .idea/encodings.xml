@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01SpringIoc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01SpringIoc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02SpringBean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02SpringBean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03SpringDi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03SpringDi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04SpringAnnoIoc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04SpringAnnoIoc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05SpringCase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05SpringCase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06SpringAnnoCase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06SpringAnnoCase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07SpringAnnoWithoutXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07SpringAnnoWithoutXml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08SpringCasePro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08SpringCasePro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09SpringProxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09SpringProxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10SpringAop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10SpringAop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11SpringAopAdviceType/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11SpringAopAdviceType/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12SpringAnnoAop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12SpringAnnoAop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13SpringJdbcTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13SpringJdbcTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14SpringCaseProAopAnno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14SpringCaseProAopAnno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15SpringCaseProAopXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15SpringCaseProAopXml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16SpringTs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16SpringTs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17SpringTsXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17SpringTsXml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18SpringTsAnno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18SpringTsAnno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19SpringTsAnnoWithoutXml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19SpringTsAnnoWithoutXml/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

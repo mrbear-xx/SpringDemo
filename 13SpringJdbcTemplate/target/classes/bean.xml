@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        https://www.springframework.org/schema/aop/spring-aop.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="accountDao2" class="spring.dao.impl.AccountDaoImpl2">
+        <property name="jdbcTemplate" ref="jdbcTemplate"></property>
+    </bean>
+
+    <!--JdbcDaoSupport的配置    -->
+    <bean id="jdbcDaoSupport" class="spring.dao.impl.JdbcDaoSupport">
+        <property name="jdbcTemplate" ref="jdbcTemplate"></property>
+    </bean>
+
+    <bean id="accountDao1" class="spring.dao.impl.AccountDaoImpl1">
+        <property name="jdbcTemplate" ref="jdbcTemplate"></property>
+    </bean>
+
+    <!--jdbcTemplateDemo2中的配置    -->
+    <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+        <property name="dataSource" ref="dateSource"></property>
+    </bean>
+
+    <bean id="dateSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"></property>
+        <property name="url" value="jdbc:mysql://115.159.127.240:3306/SpringDemo?serverTimeZone=HongKong"></property>
+        <property name="username" value="root"></property>
+        <property name="password" value="Lovexiaoxian.187"></property>
+    </bean>
+
+</beans>
